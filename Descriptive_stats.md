@@ -33,8 +33,8 @@
 
 
 # 2. Skew
-
-    Skew refers to the asymmetry or lack of symmetry in the distribution of data. When data is skewed, it means that the data points tend to cluster more on one side of the mean than the other, creating a distribution that is not symmetric. 
+    
+* Skew refers to the asymmetry or lack of symmetry in the distribution of data. When data is skewed, it means that the data points tend to cluster more on one side of the mean than the other, creating a distribution that is not symmetric. 
 
 There are two types of skew:
 
