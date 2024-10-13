@@ -48,4 +48,4 @@ There are two types of skew:
     * The mean and median are less than the mode.
     * Examples: Age at retirement, time until failure for certain mechanical systems.
   
-![Alt text]([https://i.sstatic.net/SJquJ.png](https://www.researchgate.net/profile/Musab_Al-Ghadi/publication/329514138/figure/fig5/AS:941737409269761@1601539103021/The-diagram-of-a-normal-b-negatively-skewed-and-c-positively-skewed-distributions.png) "skew")
+![Alt text](https://www.researchgate.net/profile/Musab_Al-Ghadi/publication/329514138/figure/fig5/AS:941737409269761@1601539103021/The-diagram-of-a-normal-b-negatively-skewed-and-c-positively-skewed-distributions.png "skew")
