@@ -47,3 +47,5 @@ There are two types of skew:
     * The tail on the left side of the distribution is longer or fatter than the right side.
     * The mean and median are less than the mode.
     * Examples: Age at retirement, time until failure for certain mechanical systems.
+  
+![Alt text](https://i.sstatic.net/SJquJ.png "skew")
